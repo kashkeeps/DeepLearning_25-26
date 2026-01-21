@@ -1,6 +1,6 @@
 ✨ My digi Deep-Learning Diary ✨  
 
-A tiny corner where ill be sharing my:🧠💻  
+A tiny corner where ill be sharing my:
 
 -daily lab work  
 -experiments & practice  
