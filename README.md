@@ -2,8 +2,8 @@
 
 A tiny corner where ill be sharing my:🧠💻  
 
--Daily lab work  
--Experiments & practice  
--Mini projects & ideas  
+-daily lab work  
+-experiments & practice  
+-mini projects & ideas  
 
  ps: stay tuned fm
